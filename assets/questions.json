@@ -1,0 +1,23 @@
+[
+    {
+        "question": "savol",
+        "answers": [
+            {
+                "answer": "javob1",
+                "correct": true
+            },
+            {
+                "answer": "javob2",
+                "correct": false
+            },
+            {
+                "answer": "javob3",
+                "correct": false
+            },
+            {
+                "answer": "javob4",
+                "correct": false
+            }
+        ]
+    }
+]
